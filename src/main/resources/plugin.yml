@@ -1,0 +1,8 @@
+name: SurvivalEnhancements
+version: '${project.version}'
+main: me.hapyl.sven.Main
+api-version: 1.19
+prefix: SVEN
+depend: [ EternaAPI ]
+authors: [ hapyl ]
+description: A plugin that changes some of the survival features, enhancing them or changing the behaviour.
